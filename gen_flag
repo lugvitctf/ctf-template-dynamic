@@ -1,0 +1,3 @@
+#!/bin/sh
+
+# make sure that the shebang up top always has /bin/sh ONLY!

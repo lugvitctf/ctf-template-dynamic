@@ -16,7 +16,7 @@ If **Yes** then note:
 > [!NOTE]
 > 
 > All required files must be named properly and put inside
-> the `assets/` directory.
+> the `/dist` directory.
 > 
 
 ## How to solve 
@@ -37,18 +37,3 @@ Logically, what clues or hints will they need to pick up to go to the next stage
 
 Mention in a list format.
 
-## Testing
-
-- [ ] Self testing done?
-- [ ] Tested by multiple people?
-
-If tested by multiple people, mention their names in a list format.
-
-1. <tester1>
-2. <tester2>
-...
-
-## Deployment status
-
-- [ ] Integrated with backend?
-- [ ] Tested and deployed with backend?
